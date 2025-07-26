@@ -42,4 +42,4 @@ Deepen understanding of Java’s mutable string classes:
 2. Navigate to the project directory in your terminal.
 3. Compile:
    ```bash
-   javac StringBufferDemo.java StringBuildersDemo.java 
+   javac StringBufferDemo.java StringBuilders.java 
